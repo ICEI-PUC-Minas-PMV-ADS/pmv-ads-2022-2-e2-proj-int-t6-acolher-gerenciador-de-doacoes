@@ -35,9 +35,18 @@ Um case semelhante a solução a ser implantada, pode ser observada no site www.
 
 |EU COMO... `PERSONA`| QUERO/DESEJO ... `O QUE`                                          |PARA ... `POR QUE`                                       |
 |--------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------|
-|Annaluh Oliveira    | Fazer doações de cestas básicas e bens materiais                            | Ajudar pessoas em áreas de risco                             |
-|Annaluh Oliveira    | Saber quais pontos de apoio estão mais próximos                             | Levar os itens para serem doados à uma campanha específica.  |
+|Annaluh Oliveira    | Fazer doações de cestas básicas e bens materiais.                            | Ajudar pessoas em áreas de risco.                             |
+|Annaluh Oliveira    | Saber quais pontos de apoio estão mais próximos.                             | Levar os itens para serem doados à uma campanha específica.  |
 |Annaluh Oliveira    | Procurar saber sobre a segurança da doação e informação daquela plataforma. | Para se sentir segura em relação a doção e conseguir doar sem medo de golpes. |
+|Filipe Afonso       | Fazer o cadastro para conseguir doar.                                       | Para ser reconhecido pela doação. |
+|Filipe Afonso       | Mobilizar pessoas com o auxílio das redes sociais.                           | Aglutinar voluntários para a realização de doações em todo território nacional. |
+|Gabriel Queiroz     | Realizar campanhas para a arrecadação de dinheiro em sua ONG de animais.     | Destinar recursos para animais abandonados em diferentes regiões. 
+|Gabriel Queiroz     | Cadastrar profissionais veterinários voluntários.                            | Encaminhar veterinários para locais necessitados. |
+|Patrícia Figueiredo | Estimular funcionários e pais de alunos a iniciar uma conduta voluntária.    | Disponibilizar um ponto de apoio para arrecadação de itens na comunidade.| 
+|Patrícia Figueiredo | Angariar doações de estabelecimentos que se identificam com a causa.         | Arrecadar itens para suprir necessidade básica de crianças em situação de vulnerabilidade. |
+
+
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
