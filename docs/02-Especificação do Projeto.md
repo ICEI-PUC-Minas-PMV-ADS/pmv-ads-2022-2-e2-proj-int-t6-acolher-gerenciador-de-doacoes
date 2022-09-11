@@ -1,30 +1,37 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+A origem do modelo, assim como a concepção do projeto da plataforma de doações Acolher (arrecadação e gerenciamento), foram as observações de forma crescente e recorrente de tragédias ambientais nos últimos anos, em particular nesse ano de 2022.  
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+Para fundamentar a construção do presente projeto, foram observadas reportagens veiculadas em mídias de comunicação em massa, além de pesquisas na Web relacionadas aos eventos climáticos que atingiram o território nacional, em específico a região 8888888 do país. Casos conhecidos como o 8888 e a dificuldade dos voluntários ao localizar pontos de apoio para doar os donativos, motivaram o desenvolvimento da solução para encurtar a conexão voluntário/ necessitado.  
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Um case semelhante a solução a ser implantada, pode ser observada no site www.praquemdoar.com.br, iniciativa divulgada pelo grupo Globo, como a finalidade de unir projetos já em andamento e pessoas que se identificam com o destino de interesse. A partir dos últimos acontecimentos observados, baseado nas pesquisas e também na consolidação das ideias dos membros desenvolvedores, foram criados personas e histórias de usuários a quem se destina a plataforma Acolher. 
+
+> **Links Úteis**:
+> - [Pra quem doar](www.praquemdoar.com.br)
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+1. Annaluh Oliveira 
+   Idade: 39 anos. 
+   Ocupação: Advogada, possui sua própria advocacia. 
+   Motivações: Ela sempre procurando ajudar quem precisa, pois além de estar fazendo o bem para o próximo, também se sente melhor com isto. Annaluh não se sente bem em doar dinheiro, prefere doar bens ou cestas básicas.
+   
+2. Filipe Afonso 
+   Idade: 23 anos 
+   Ocupação: Estudante. 
+   Motivações: Ele vive em redes sociais, se deparou com um mutirão de gente fazendo campanhas de doação para pessoas que perderam bens materiais por causa da chuva, com isso separou roupas que não lhe servem mais para serem doadas.
+   
+3. Gabriel Queiroz 
+   Idade: 30 anos 
+   Ocupação: Fundador de uma ONG que ajuda a cuidar de animais feridos e abandonados. 
+   Motivações: Por viver isso na pele, ele está sempre procurando ajudar ONGs e campanhas, João gosta de contribuir com dinheiro pois acha mais fácil, mas possui insegurança. 
+   
+4. Patrícia Figueiredo 
+   Idade: 29 anos 
+   Ocupação: Professora de história, trabalha em uma rede pública. 
+   Motivações: Ela defende muitas causas infantis e ao ver no jornal notícias de enchentes que destruíram casas, se propôs a arrecadar e doar itens de primeira necessidade para crianças.
 
 ## Histórias de Usuários
-
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
