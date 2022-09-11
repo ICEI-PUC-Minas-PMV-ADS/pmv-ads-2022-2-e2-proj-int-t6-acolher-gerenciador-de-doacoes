@@ -12,39 +12,26 @@ No entanto, a ausência de transparência de uma série de sites voltados para a
 
 O site Acolher tem como objetivo suprir as necessidades elencadas, por meio de sua interface de fácil acesso e manuseio é possível doar de forma simples e rápida, todas as informações relativas ao direcionamento do recurso financeiro disposto serão fornecidas ao doador, bem como para onde e qual entidade o receberá, sendo todas as instituições parceiras elencadas no site com seus respectivos dados e breve histórico.  Caso o usuário deseje doar pessoalmente um recurso físico será indicado para ele um ponto de apoio para, inclusive, acompanhar a coleta. O Acolher funciona como uma ponte entre o interessado em contribuir e aqueles que estão realizando o acolhimento das vítimas, facilitando e agilizando o suporte no momento da adversidade. 
 
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste trabalho é a criação de uma plataforma de intermediação entre doador, intermediador e o receptor das doações. Implementando uma plataforma para auxiliar nas doações destinadas aos moradores de uma comunidade, bairro, aglomerado ou microrregião, afetada por algum desastre. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+A finalidade do presente projeto é desenvolver uma aplicação interativa, isto é criar um software que propõe a solução de um problema da vida real com foco na interface com o usuário, na arquitetura de software e estrutura de banco de dados. O projeto Acolher possui funções de auxiliar um usuário a realizar doações e informar com transparência dados de itens recebidos, para trazer conforto e segurança na hora de doar. Como funções da aplicação, podemos destacar: 
+
+* Cadastro de Usuários 
+* Informar pontos de apoios próximos do usuário 
+* Apurar dados de Doação 
+* Mostrar no mapa os pontos de apoio 
+* Páginas de reconhecimento de colaboradores 
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A proposta da nossa aplicação é o uso da tecnologia para ajudar pessoas vítimas de desastres ambientais em situação de vulnerabilidade. A plataforma Acolher tem como função principal catalogar, organizar e direcionar os recursos arrecadados por meio de doações feitas através de voluntários. Utilizando um banco de dados previamente inseridos, é possível gerenciar o número de donativos arrecadados, assim como a direta localização dos indivíduos mais necessitados.  
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Implementar a ferramenta de gerenciamento como um aliado para a correta distribuição aos afetados pelas catástrofes; estimular doações por meio da facilidade em localizar pontos arrecadação, arrecadar e catalogar itens de primeira necessidade como cestas básicas, roupas, dinheiro, alimentos e produtos de higiene para os moradores da região afetada, assim como garantir a ligação entre voluntários e necessitados, são alguns dos pilares levados em consideração ao iniciar o desenvolvimento da plataforma de doações. 
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+De acordo com a nossa proposta, o público alvo engloba as pessoas que queiram ajudar os atingidos por algum tipo de desastre, seja oriundo de causa humana ou natural, e acabaram sendo prejudicadas financeiramente e se encontram em situação de fragilidade. A forma de contribuir é por meio de doação de cestas básicas, roupas, itens pessoais, eletrodomésticos ou com dinheiro que será revertido nesses mesmos produtos, sendo que por meio da plataforma o doador poderá decidir para onde seu auxílio será destinado e ter um feedback do seu uso.  
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+A transparência dos dados relacionados as doações será o nosso diferencial, gerando confiança no site, incentivando contribuições, facilitando a divulgação e adesão de novos voluntários. Todos aqueles que sejam economicamente ativos e maiores de 18 anos podem se cadastrar na plataforma e realizar sua doação financeira ou se dirigir a um ponto de apoio previamente escolhido para deixar sua contribuição de itens diversos.   
