@@ -22,7 +22,7 @@ Acolher: Página Web voltada para o recolhimento de doações, atendendo a comun
 
 ## Orientador
 
-* Nome completo do professor 1
+* Bernardo Jeunon de Alencar 
 
 ## Instruções de utilização
 
