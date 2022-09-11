@@ -90,7 +90,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01|O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 11/12/2022. |
-|02|A plataforma deve se restringir às tecnologias básicas utilizando ferramentas do BackEnd (Banco de dados, .... ).       |
+|02|A plataforma deve se restringir às tecnologias básicas utilizando ferramentas de desenvolvimento BackEnd.        |
 |03|A equipe não pode subcontratar o desenvolvimento do trabalho. |
 |04| A plataforma se compromete em não compartilhar históricos de pesquisa, localização em tempo real e dados sensíveis dos usuários. |
 
