@@ -45,17 +45,7 @@ Um case semelhante a solução a ser implantada, pode ser observada no site www.
 |Patrícia Figueiredo | Estimular funcionários e pais de alunos a iniciar uma conduta voluntária.    | Disponibilizar um ponto de apoio para arrecadação de itens na comunidade.| 
 |Patrícia Figueiredo | Angariar doações de estabelecimentos que se identificam com a causa.         | Arrecadar itens para suprir necessidade básica de crianças em situação de vulnerabilidade. |
 
-
-
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+Fonte: Criado pelos autores. 
 
 ## Requisitos
 
@@ -65,30 +55,33 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O site deve possuir uma página de login com usuário e senha  | ALTA | 
+|RF-002| O site deve apresentar um link para criar e gerenciar o acesso do usuário doador    | ALTA |
+|RF-003| A plataforma deve informar a origem, quantidade de itens arrecadados e o destino das doações. | ALTA 
+|RF-004| A aplicação deve permitir o gerenciamento do total de itens recolhidos e destinados. | ALTA |
+|RF-005| O site deve gerenciar concordância dos usuários nos termos de conduta e uso da plataforma antes do cadastro. | ALTA |
+|RF-006| O programa deve administrar o aceite de política de privacidade ao usuário. | ALTA |
+|RF-007| A plataforma deve exibir os nomes de parceiros doadores com maior reconhecimento no rodapé da página | MÉDIA |
+|RF-008| Na plataforma será informado os pontos de coleta próximos a casa do doador. | ALTA |
+|RF-009| O nome das Ongs e/ou instituições responsáveis por receber as doações bem como seu breve histórico ficarão disponíveis para consulta no site. | MÉDIA |
+|RF-010| O site deve administrar as áreas de atuações das empresas (ONGs) parceiras, assim como o destino das doações por ela manuseadas.  | MÉDIA | 
+|RF-011| Calcular a quantidade de donativos arrecadados. | MÉDIA |  
+Fonte: Criada pelos autores. 
+
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O site deve ser publicado em um ambiente acessível publicamente na Internet via GitHub.  | ALTA | 
+|RNF-002| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada.  |  ALTA | 
+|RNF-003| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge). | ALTA |
+|RNF-004| O site deve possuir interface simplificada tornando-o acessível para pessoas com limitações de velocidade de acesso à internet. Visto que o público alvo está em comunidades atingidas por catástrofes. | MÉDIA |
+|RNF-005| O site ficará online e disponível aos usuários 24 horas por dia, 7 dias na semana. Com manutenções programadas em horários com baixo número de usuários ativos. | ALTA |
+|RNF-006| O site deve apresentar uma dinâmica que mostre detalhes dos anúncios hospedados. | MÉDIA |
+|RNF-007| No final da página home haverá um espaço destinado para a logo das instituições e/ou Ongs parceiras a fim de dar credibilidade ao site. | MÉDIA |
+Fonte: Criada pelos autores. 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
