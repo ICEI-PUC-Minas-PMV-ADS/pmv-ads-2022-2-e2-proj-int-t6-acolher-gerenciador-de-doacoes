@@ -89,25 +89,16 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01|O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 11/12/2022. |
+|02|A plataforma deve se restringir às tecnologias básicas utilizando ferramentas do BackEnd (Banco de dados, .... ).       |
+|03|A equipe não pode subcontratar o desenvolvimento do trabalho. |
+|04| A plataforma se compromete em não compartilhar históricos de pesquisa, localização em tempo real e dados sensíveis dos usuários. |
 
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
+O portal acolher intermediará as interações entre os doadores e a instituição responsável por administrar as doações aos atingidos. O site gerenciará duas formas de doação: a financeira (via PIX ou TED) e o ponto de apoio para aqueles que desejarem levar os alimentos e/ou itens diversos. 
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
+A doação se dará a partir do registro no site, ou tendo cadastro prévio, por meio do login que se inserido incorretamente retorna uma mensagem de erro impossibilitando o usuário de realizar a transferência financeira, mas ainda assim ele poderá acessar o gerenciamento dos desastres realizado pela plataforma, assim como seus respectivos pontos de apoio. 
 
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+No rodapé da página inicial constará os parceiros do sítio eletrônico, a fim de trazer credibilidade ao mesmo, bem como as informações de privacidade e termos de uso que estarão disponíveis a todos os usuários e administradores da plataforma.
