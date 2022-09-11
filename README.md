@@ -1,19 +1,24 @@
-# Acolher - Plataforma de gerenciamento de doações 
+# ACOLHER 
 
-`CURSO`
+Plataforma de gerenciamento de doações 
 
-`DISCIPLINA`
+`tecnólogo Análise e Desenvolvimento de Sistemas `
 
-`SEMESTRE`
+`Desenvolvimento de uma Aplicação Interativa`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+`2º Período`
+
+Acolher: Página Web voltada para o recolhimento de doações, atendendo a comunidades afetadas por desastres, sendo naturais ou provocados pelo homem.  Com a finalidade de ajudar pessoas que se encontram em situações de risco.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Anna Karolina de Souza Freitas 
+* Arthur Hudson Ferreira Machado 
+* Elder Ferreira Ramos 
+* Felipe Maurício Ribeiro Nascente
+* Raniel Adriano de Souza Araújo 
+* Vinícius César Andrade Gomes 
+* Wilson Eduardo Sousa Santos 
 
 ## Orientador
 
