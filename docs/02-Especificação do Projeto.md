@@ -33,10 +33,11 @@ Um case semelhante a solução a ser implantada, pode ser observada no site www.
 
 ## Histórias de Usuários
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                          |PARA ... `MOTIVO/VALOR`                                       |
+|--------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------|
+|Annaluh Oliveira    | Fazer doações de cestas básicas e bens materiais                            | Ajudar pessoas em áreas de risco                             |
+|Annaluh Oliveira    | Saber quais pontos de apoio estão mais próximos                             | Levar os itens para serem doados à uma campanha específica.  |
+|Annaluh Oliveira    | Procurar saber sobre a segurança da doação e informação daquela plataforma. | Para se sentir segura em relação a doção e conseguir doar sem medo de golpes. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
