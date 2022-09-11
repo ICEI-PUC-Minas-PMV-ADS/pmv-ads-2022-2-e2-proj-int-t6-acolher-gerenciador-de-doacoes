@@ -1,6 +1,6 @@
 # Introdução
 
-Acolher: Página Web voltada para o recolhimento de doações, atendendo a comunidades afetadas por desastres, sendo naturais ou provocados pelo homem.  Com a finalidade de ajudar pessoas que se encontram em situações de risco.  
+Acolher: Página Web voltada para o gerenciamento de doações, atendendo a comunidades afetadas por desastres, seja natural ou provocados pelo homem.  A plataforma tem a finalidade de ajudar pessoas que se encontram em situações de vulnerabilidade. 
 
 ## Problema
 
