@@ -1,4 +1,4 @@
-# Acolher
+# Acolher - Plataforma de gerenciamento de doações 
 
 `CURSO`
 
