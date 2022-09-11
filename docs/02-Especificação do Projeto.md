@@ -78,7 +78,7 @@ Fonte: Criada pelos autores.
 |RNF-003| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge). | ALTA |
 |RNF-004| O site deve possuir interface simplificada tornando-o acessível para pessoas com limitações de velocidade de acesso à internet. Visto que o público alvo está em comunidades atingidas por catástrofes. | MÉDIA |
 |RNF-005| O site ficará online e disponível aos usuários 24 horas por dia, 7 dias na semana. Com manutenções programadas em horários com baixo número de usuários ativos. | ALTA |
-|RNF-006| O site deve apresentar uma dinâmica que mostre detalhes dos anúncios hospedados. | MÉDIA |
+|RNF-006| O site deverá detalhar os itens arrecadados por meio de uma lista de controle acessível aos administradores.  | MÉDIA |
 |RNF-007| No final da página home haverá um espaço destinado para a logo das instituições e/ou Ongs parceiras a fim de dar credibilidade ao site. | MÉDIA |
 Fonte: Criada pelos autores. 
 
