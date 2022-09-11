@@ -33,7 +33,7 @@ Um case semelhante a solução a ser implantada, pode ser observada no site www.
 
 ## Histórias de Usuários
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                          |PARA ... `MOTIVO/VALOR`                                       |
+|EU COMO... `PERSONA`| QUERO/DESEJO ... `O QUE`                                          |PARA ... `POR QUE`                                       |
 |--------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------|
 |Annaluh Oliveira    | Fazer doações de cestas básicas e bens materiais                            | Ajudar pessoas em áreas de risco                             |
 |Annaluh Oliveira    | Saber quais pontos de apoio estão mais próximos                             | Levar os itens para serem doados à uma campanha específica.  |
