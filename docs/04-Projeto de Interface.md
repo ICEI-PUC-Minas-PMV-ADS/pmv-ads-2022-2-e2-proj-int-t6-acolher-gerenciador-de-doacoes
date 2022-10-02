@@ -23,8 +23,16 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+As telas desenvolvidas do projeto, apresentado no tópico Fluxo do Usuário, serão detalhadas nos itens abaixo. Uma versão mais primitiva do visual do projeto “ACOLHER”. Nesta estrutura, existem 2 grandes blocos, descritos a seguir. São eles: 
+
  
+
+ 
+
+> Cabeçalho - Local onde estão localizados elementos fixos de identidade, o logo, possui também um menu principal, para navegação do site, além disso possui um local para cadastrar-se no site e fazer doações pelo próprio site. 
+
+> Conteúdo - apresenta os dados das doações recebidas e como elas estão sendo distribuídas pelas entidades. 
+
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
 > - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
