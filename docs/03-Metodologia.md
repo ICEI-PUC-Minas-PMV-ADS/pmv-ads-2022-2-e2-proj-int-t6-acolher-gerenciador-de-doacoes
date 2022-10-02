@@ -21,6 +21,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas. A r
 Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Flow abordado por Vietro (2015), mostrado na Figura a seguir. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature. Uma explicação rápida sobre este processo é apresentada no vídeo "The gitflow workflow - in less than 5 mins". 
 
  
+![image](https://user-images.githubusercontent.com/102244252/193480390-8261ee9e-1adb-4c63-951f-fee322e93131.png)
 
 
 ## Gerenciamento de Projeto
