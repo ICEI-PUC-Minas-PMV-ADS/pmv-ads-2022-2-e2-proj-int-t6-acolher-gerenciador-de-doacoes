@@ -36,7 +36,7 @@ A equipe está organizada da seguinte maneira:
 
 > Product Owner: Vinícius Gomes 
 
-> Equipe de Desenvolvimento 
+> Equipe de Desenvolvimento :
 
 Anna Freitas 
 
@@ -52,7 +52,7 @@ Felipe Ribeiro
 
 Wilson Eduardo  
 
-> Equipe de Design 
+> Equipe de Design:  
 
 Anna Freitas 
 
