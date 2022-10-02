@@ -25,7 +25,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 As telas desenvolvidas do projeto, apresentado no tópico Fluxo do Usuário, serão detalhadas nos itens abaixo. Uma versão mais primitiva do visual do projeto “ACOLHER”. Nesta estrutura, existem 2 grandes blocos, descritos a seguir. São eles: 
 
- 
+ ![Wireframe].(72
 
  
 
