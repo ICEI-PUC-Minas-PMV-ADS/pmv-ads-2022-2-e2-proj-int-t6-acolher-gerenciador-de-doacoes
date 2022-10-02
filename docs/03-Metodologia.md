@@ -11,7 +11,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas. A r
 
 |AMBIENTE| PLATAFORMA|LINK DE ACESSO|
 |--------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------|
-|Repositório de código fonte | GITHUB| (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-acolher-gerenciador-de-doacoes)|
+|Repositório de código fonte | GITHUB| https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-acolher-gerenciador-de-doacoes|
 
 
 ## Gerenciamento de Projeto
