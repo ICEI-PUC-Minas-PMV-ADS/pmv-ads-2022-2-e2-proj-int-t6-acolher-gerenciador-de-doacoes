@@ -13,13 +13,14 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas. A r
 |--------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------|
 |Repositório de código fonte | GITHUB| https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-acolher-gerenciador-de-doacoes|
 |Documentos do projeto | Google Drive | https://sgapucminasbr-my.sharepoint.com/personal/1413187_sga_pucminas_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F1413187%5Fsga%5Fpucminas%5Fbr%2FDocuments%2FT%C3%A1%20na%20m%C3%A3o&ga=1 |
-|Projeto de Interface e Wireframe| 
+|Projeto de Interface e Wireframe| canva | https://www.canva.com/pt_br/ |
 
 
 
 ## Gerenciamento de Projeto
 
-### Divisão de Papéis
+### Divisão de Papéis[
+](https://www.canva.com/pt_br/)
 
 Apresente a divisão de papéis entre os membros do grupo.
 
