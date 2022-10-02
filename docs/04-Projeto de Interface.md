@@ -2,10 +2,9 @@
 # Projeto de Interface
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+ 
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
-
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+Objetivando uma aplicação intuitiva, foi desenvolvido um sistema de gerenciamento de doação focado na construção de páginas, com layouts simplificados e de fácil navegabilidade. A fim de proporcionar uma experiência de doação focada na facilidade de uso do doador seja em desktops ou dispositivos móveis. O sistema também será integrado com a base de dados do google maps a fim de fornecer aos usuários a localização das áreas afetadas e dos pontos de apoio próximo a elas e sua residência. s <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
 
 ## Diagrama de Fluxo
 
