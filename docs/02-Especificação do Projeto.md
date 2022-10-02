@@ -102,3 +102,7 @@ O portal acolher intermediará as interações entre os doadores e a instituiç�
 A doação se dará a partir do registro no site, ou tendo cadastro prévio, por meio do login que se inserido incorretamente retorna uma mensagem de erro impossibilitando o usuário de realizar a transferência financeira, mas ainda assim ele poderá acessar o gerenciamento dos desastres realizado pela plataforma, assim como seus respectivos pontos de apoio. 
 
 No rodapé da página inicial constará os parceiros do sítio eletrônico, a fim de trazer credibilidade ao mesmo, bem como as informações de privacidade e termos de uso que estarão disponíveis a todos os usuários e administradores da plataforma.
+
+Figura 1 – Diagrama de Fluxo de dados
+![Casos de uso Acolher](https://user-images.githubusercontent.com/103782980/193474325-c7265977-29ad-4823-aa1b-07ef31d42070.png)
+
