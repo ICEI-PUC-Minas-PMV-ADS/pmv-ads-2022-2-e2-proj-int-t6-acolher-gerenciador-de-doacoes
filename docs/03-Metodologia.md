@@ -17,6 +17,10 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas. A r
 |Gerenciamento de Projeto | Microsoft Teams | https://teams.microsoft.com/ |
 |Diagramação UML  | Lucidchart | https://www.lucidchart.com |
 
+## GESTÃO DE CODIGO FONTE
+Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Flow abordado por Vietro (2015), mostrado na Figura a seguir. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature. Uma explicação rápida sobre este processo é apresentada no vídeo "The gitflow workflow - in less than 5 mins". 
+
+ 
 
 
 ## Gerenciamento de Projeto
