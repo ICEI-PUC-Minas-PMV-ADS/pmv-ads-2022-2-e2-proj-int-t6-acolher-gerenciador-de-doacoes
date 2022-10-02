@@ -5,11 +5,9 @@
 
 A metodologia contempla as definições de ferramentas utilizadas pela equipe, tanto para a manutenção dos códigos e artefatos, quanto para a organização do time na execução das tarefas do projeto. 
 
-## Controle de Versão
+## Relação de Ambiente de Trabalho 
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas. A relação dos ambientes com seu respectivo propósito é apresentada na tabela a seguir.  
 
 O projeto segue a seguinte convenção para o nome de branches:
 
