@@ -10,7 +10,7 @@ Objetivando uma aplicação intuitiva, foi desenvolvido um sistema de gerenciame
 
 O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
 
-O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. Você pode ver mais explicações e exemplos https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram.
+
 
 ![Exemplo de Diagrama de Fluxo](img/diagramafluxo2.jpg)
 
@@ -21,11 +21,9 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
-
 As telas desenvolvidas do projeto, apresentado no tópico Fluxo do Usuário, serão detalhadas nos itens abaixo. Uma versão mais primitiva do visual do projeto “ACOLHER”. Nesta estrutura, existem 2 grandes blocos, descritos a seguir. São eles: 
 
-<https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-acolher-gerenciador-de-doacoes/blob/main/724e6a49-08c1-43b9-96e8-91ade9b67869.jfif>
+ 
 
  
 
@@ -33,11 +31,12 @@ As telas desenvolvidas do projeto, apresentado no tópico Fluxo do Usuário, ser
 
 > Conteúdo - apresenta os dados das doações recebidas e como elas estão sendo distribuídas pelas entidades. 
 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+ 
+
+Figura 3 – wireframes 
+
+
+![image](https://user-images.githubusercontent.com/102244252/193480998-2889b98f-e01c-465c-95eb-5fffc7e708eb.png)
+Fonte: Criado pelos autores 
+
+ 
