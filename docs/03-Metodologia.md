@@ -25,43 +25,46 @@ Para gestão do código fonte do software desenvolvido pela equipe, o grupo util
 
 
 ## Gerenciamento de Projeto
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. 
 
-### Divisão de Papéis[
-](https://www.canva.com/pt_br/)
+### Divisão de Papéis
+ 
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe está organizada da seguinte maneira: 
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+> Scrum Master: Raniel Araújo  
+
+> Product Owner: Vinícius Gomes 
+
+> Equipe de Desenvolvimento 
+
+Anna Freitas 
+
+Raniel Araújo 
+
+Vinicius Gomes 
+
+Elder Ferreira 
+
+Arthur Machado 
+
+Felipe Ribeiro 
+
+Wilson Eduardo  
+
+> Equipe de Design 
+
+Anna Freitas 
+
+Felipe Ribeiro 
+
+Elder Ferreira 
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+A composição e arranjo das atividades realizadas no desenvolvimento do projeto estão distribuídas de acordo com o gerenciamento apresentado acima. Além das funções individuais, são realizadas reuniões diárias de status, revisão do projeto pela equipe, e alinhamento de acordo com os critérios de avaliação por meio da plataforma de colaboração Teams. Visando o gerenciamento, a organização e o versionamento das atividades, as tarefas são incluídas na área de projetos no Github. Também se utiliza o app WhatsApp como principal ferramenta de comunicação fora dos horários agendados.  
 
-### Ferramentas
-
-As ferramentas empregadas no projeto são:
-
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
-
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
+A metodologia ágil Scrum está sendo empregada para otimizar o tempo e organizar as tasks (tarefas) de projeto, arquitetura de soluções, design da solução, experiência de usuário e desenvolvimento. 
  
 > **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
 > - [Github](https://github.com/)
