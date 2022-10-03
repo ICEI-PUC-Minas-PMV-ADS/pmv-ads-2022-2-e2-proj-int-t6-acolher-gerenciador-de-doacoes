@@ -64,7 +64,8 @@ Para o Inventário a coluna item se relacionará com a coluna quantidade onde os
 
 ## Tecnologias Utilizadas
 
-|Programas Utilizados | Nomes | Utilização |
+|SERVE PARA | NOME | UTILIZAÇÃO|
+|--------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------|
 | Ferramenta de comunicação | Teams| Comunicação |
 | Design | Adobe Illustrator| Criação da logo |
 | Ferramenta de versionamento de código | GitHub | Descrição do projeto e Armazenamento |
