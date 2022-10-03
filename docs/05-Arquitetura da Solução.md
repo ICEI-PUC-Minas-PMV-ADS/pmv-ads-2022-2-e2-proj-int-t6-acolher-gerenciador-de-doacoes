@@ -72,6 +72,7 @@ Para o Inventário a coluna item se relacionará com a coluna quantidade onde os
 | design de layout das páginas | Canva | Design de Layout |
 
 > HTML, CSS e Javascript -  linguagem, IDE, frameworks (Front-End).
+
 > Linguagem SQL para criar queries do plano de testes.
 
 ## Hospedagem
