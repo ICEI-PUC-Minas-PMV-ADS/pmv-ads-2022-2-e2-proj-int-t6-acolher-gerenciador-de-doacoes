@@ -48,13 +48,19 @@ Inventário – Tem a função de organizar e quantificar as doações recebidas
 
 	Postos (Nome, Endereço, Estado – A combinação dos três atributos constituem a chave primária); 
 
-	Estoque (Item, Quantidade). 
+	Inventário (Item, Quantidade). 
 
 > Regras de negócio 
 
-	Para a entidade de Usuário, o atributo CPF será a chave primária constituído de um número de CPF válido com 11 dígitos numéricos não nulos onde o mesmo só corresponderá a uma única linha na tabela de login. 
+	Para a entidade de Usuário, o atributo CPF será a chave primária constituído de um número de CPF válido com 11 dígitos numéricos não nulos onde o mesmo só corresponderá a uma única linha na tabela de login.  
+
+	A senha referente ao login do usuário deverá conter entre 8 e 10 caracteres do tipo char e deve conter ao menos uma letra maiúscula. 
 
 	Para a entidade Instituições, o atributo CNPJ será a chave primária constituído de um número de CNPJ válido com 14 dígitos numéricos não nulos onde o mesmo só corresponderá a uma única linha na tabela de nome correspondente à instituição 
+
+Para a entidade Postos, Nome, Endereço e Estado irão compor chaves primárias. 
+
+Para o Inventário a coluna item se relacionará com a coluna quantidade onde os tipos de itens serão descritos em cada linha e a quantidade somada conforme sejam registradas as doações para cada tipo de item. 
 
 ## Tecnologias Utilizadas
 
