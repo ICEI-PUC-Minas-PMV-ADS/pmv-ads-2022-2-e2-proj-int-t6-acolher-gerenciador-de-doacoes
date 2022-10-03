@@ -71,8 +71,8 @@ Para o Inventário a coluna item se relacionará com a coluna quantidade onde os
 | Microsoft Visio | desing de diagramas | para fazer o design dos diagramas |
 | design de layout das páginas | Canva | Design de Layout |
 
-> HTML, CSS e Javascript -  linguagem, IDE, frameworks (Front-End)
->  Linguagem SQL para criar queries do plano de testes.
+> HTML, CSS e Javascript -  linguagem, IDE, frameworks (Front-End).
+> Linguagem SQL para criar queries do plano de testes.
 
 ## Hospedagem
 
