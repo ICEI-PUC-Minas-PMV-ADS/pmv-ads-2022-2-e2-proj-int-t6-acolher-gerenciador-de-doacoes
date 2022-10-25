@@ -47,7 +47,8 @@ Fonte: Criado pelos autores
 - Tela Contato
 
 > Tela Home Page
-A tela de home-page apresenta os locais que necessitam de doações. 
+> 
+> A tela de home-page apresenta os locais que necessitam de doações. 
 
 ![image](https://user-images.githubusercontent.com/102244252/193482048-a9e46293-423f-48bc-ad0c-30f48c23f36a.png)
 Fonte: Criada pelos autores.
