@@ -12,8 +12,7 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 
 > Fluxo de Usuário: 
 O esquema de construção da página do site “ACOLHER” é exemplificado abaixo através do fluxograma 1. 
-![image](https://user-images.githubusercontent.com/102244252/193485670-34d75cf9-4214-44e0-beb4-1751c95977aa.png)
-
+![image]
 Fonte: Criada pelos autores.
 
 
