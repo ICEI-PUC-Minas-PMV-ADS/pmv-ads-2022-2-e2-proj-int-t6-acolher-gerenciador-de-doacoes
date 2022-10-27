@@ -39,18 +39,12 @@ Figura 3 – wireframes
 
 Fonte: Criado pelos autores 
 
- O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PMVADS/ta-na-mao-grupo6.github.io e é composto pelos seguintes layouts:
-- Tela Home Page
-- Tela Inspire-se
-- Tela Faça Parte
-- Tela Quem Somos
-- Tela Contato
 
 > Tela Home Page
 > 
-> A tela de home-page apresenta os locais que necessitam de doações. 
+> A tela de Home-Page apresenta os locais que necessitam de doações. Com base na estrutura padrão, o bloco de Conteúdo traz os locais em destaque (imagem, titulo). Apresenta componente no menu como: Home, Inspire-se, Faça parte e Quem somos.  
 
-![image](https://user-images.githubusercontent.com/102244252/193482048-a9e46293-423f-48bc-ad0c-30f48c23f36a.png)
+![image]![Uploading 1(1).png…]()
 > Fonte: Criada pelos autores.
 
 > Tela Inspire-se
