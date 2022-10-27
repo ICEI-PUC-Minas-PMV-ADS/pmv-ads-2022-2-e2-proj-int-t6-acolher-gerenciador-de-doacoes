@@ -44,32 +44,35 @@ Fonte: Criado pelos autores
 > 
 > A tela de Home-Page apresenta os locais que necessitam de doações. Com base na estrutura padrão, o bloco de Conteúdo traz os locais em destaque (imagem, titulo). Apresenta componente no menu como: Home, Inspire-se, Faça parte e Quem somos.  
 
-![image]![Uploading 1(1).png…]()
+![image]![1(1)](https://user-images.githubusercontent.com/102244252/198174484-d1c07a36-8697-4c56-aafd-4ac41474c9ca.png)
 > Fonte: Criada pelos autores.
 
 > Tela Inspire-se
 > 
-> A Tela inspire-se, é uma tela com o propósito das pessoas que visitam o site se inspirar e doar para um local escolhido. 
-![image](https://user-images.githubusercontent.com/102244252/193482083-5dca7c28-25f0-4ba0-81be-cef007450781.png)
+> A Tela inspire-se, é uma tela com o propósito das pessoas que visitam o site se inspirar e doar para um local escolhido. Nessa tela, contém um breve com o intuito de induzir o doador a doar e um botão escrito ''doe agora!". 
+![image]![2(1)](https://user-images.githubusercontent.com/102244252/198174562-2dde3628-6e47-4ad3-9690-03bf9e140a43.png)
 > Fonte: Criada pelos autores.
 
 > Tela Faça Parte
 > 
-> Na tela faça parte, temos o intuito das pessoas que forem fazer a doação se cadastrar na página, para realização da doação.  
-![image](https://user-images.githubusercontent.com/102244252/193482242-413480da-5520-4a14-a317-99fd7edb9c84.png)
+> Na tela faça parte, temos o intuito das pessoas que forem fazer a doação se cadastrar na página, para realização da doação. Contendo no cadastro: "Nome, Sobrenome, email, telefone, o que você quer dor, para quem ou onde deseja doar."  
+![image]![3(1)](https://user-images.githubusercontent.com/102244252/198174659-c804486f-7e1d-49aa-92a0-1f212ec249ea.png)
 > Fonte: Criada pelos autores.
 
 > Tela Quem Somos
 > 
 > Nesta tela, temos o intuito de falar quem somos e abordamos juntamente os pontos de apoio. 
-![image](https://user-images.githubusercontent.com/102244252/193482276-48353b4d-5f44-4eb6-8a8a-42fac2640010.png)
+![image]![4(1)](https://user-images.githubusercontent.com/102244252/198174731-e1f6c943-3f32-4349-8c11-72795f5a1135.png)
 > Fonte: Criada pelos autores.
 
-![image](https://user-images.githubusercontent.com/102244252/193482285-5fb5ec02-868e-4f65-830a-9a30ed8e3344.png)
+> Tela de Apoio
+
+> A Tela de Ponto de apoio, mostra os lugares na região aonde existem os pontos de apoio.  
+![image]![5](https://user-images.githubusercontent.com/102244252/198174851-d803a180-b656-4317-8e28-f0d0ef3f4950.png)
 > Fonte: Criada pelos autores.
 
 > Tela de Contato
 > 
-> Tela de apresentação as informações necessárias caso o doador tiver dúvidas entre em contato.
-![image](https://user-images.githubusercontent.com/102244252/193482304-d3a8a76e-05a5-4df2-a8d5-487847f40f28.png)
+> Tela de apresentação as informações necessárias caso o doador tiver dúvidas entre em contato e um rodapé da plataforma. 
+![image]![6](https://user-images.githubusercontent.com/102244252/198174937-0a1b30e0-57d1-4eca-8558-d1191faff42f.png)
 > Fonte: Criada pelos autores.
