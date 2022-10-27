@@ -4,7 +4,7 @@
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
  
 
-Objetivando uma aplicação intuitiva, foi desenvolvido um sistema de gerenciamento de doação focado na construção de páginas, com layouts simplificados e de fácil navegabilidade. A fim de proporcionar uma experiência de doação focada na facilidade de uso do doador seja em desktops ou dispositivos móveis. O sistema também será integrado com a base de dados do google maps a fim de fornecer aos usuários a localização das áreas afetadas e dos pontos de apoio próximo a elas e sua residência. s <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+Objetivando uma aplicação intuitiva, foi desenvolvido um sistema de gerenciamento de doação focado na construção de páginas, com layouts simplificados e de fácil navegabilidade. A fim de proporcionar uma experiência de doação focada na facilidade de uso do doador seja em desktops ou dispositivos móveis. O sistema também será integrado com a base de dados do google maps a fim de fornecer aos usuários a localização das áreas afetadas e dos pontos de apoio próximo a elas e sua residência. <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
 
 ## Diagrama de Fluxo
 
@@ -12,7 +12,8 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 
 > Fluxo de Usuário: 
 O esquema de construção da página do site “ACOLHER” é exemplificado abaixo através do fluxograma 1. 
-![image]
+![image](![Design sem nome (1)](https://user-images.githubusercontent.com/102244252/198170706-d7d3a5c0-169a-4600-afb2-65baa0a7e5ef.png)
+)
 Fonte: Criada pelos autores.
 
 
