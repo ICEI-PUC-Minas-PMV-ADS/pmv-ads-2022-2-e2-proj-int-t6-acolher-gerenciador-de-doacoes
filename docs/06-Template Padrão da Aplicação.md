@@ -1,5 +1,7 @@
 # Template Padrão da Aplicação
 
+> O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de interface elaborado anteriormente, conforme na Figura *. 
+
 ![image](https://user-images.githubusercontent.com/102244252/193481968-e550a1ac-8d7c-4a74-a505-5fb912b42ca6.png)
 
 O template criado está disponível no site http://l1nq.com/DE5BP e é composto pelos seguintes layouts:
