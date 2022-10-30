@@ -43,14 +43,13 @@ O link e o usuário/senha descritos acima são apenas exemplos de como tais info
 <li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
 <li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
 <li><a href="docs/06-Template Padrão da Aplicação.md"> Template Padrão da Aplicação</a></li>
-<li><a href="docs/07-Prova de Conceito da Arquitetura (POC).md"> Prova de Conceito da Arquitetura (POC)</a></li>
-<li><a href="docs/08-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
-<li><a href="docs/09-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
-<li><a href="docs/10-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="docs/11-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
-<li><a href="docs/12-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
-<li><a href="docs/13-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
-<li><a href="docs/14-Referências.md"> Referências</a></li>
+<li><a href="docs/07- Prova de Conceito da Arquitetura (POC) / Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
+<li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
+<li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
+<li><a href="docs/10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
+<li><a href="docs/11-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
+<li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
+<li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
 
 # Código
