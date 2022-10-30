@@ -8,16 +8,16 @@
 
 O template criado está disponível no site github.com/T4acolher e é composto pelos seguintes layouts:  
 
->Tela Home Page 
->Tela de Login 
->Tela Quem Somos  
->Tela Inspire-se 
->Tela Faça Parte  
->Tela de Cadastro de Doação 
->Tela Pontos de Apoio 
->Tela Dashboard 
->Tela de Contatos 
->Tela de Termos de uso
+Tela Home Page 
+Tela de Login 
+Tela Quem Somos  
+Tela Inspire-se 
+Tela Faça Parte  
+Tela de Cadastro de Doação 
+Tela Pontos de Apoio 
+Tela Dashboard 
+Tela de Contatos 
+Tela de Termos de uso
 
 
 > Tela Home Page
