@@ -16,7 +16,7 @@ O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PM
 >Fonte: Criada pelos autores.
 
 > Tela Inspire-se
->A Tela inspire-se, é uma tela com o propósito das pessoas que visitam o site se inspirar e doar para um local escolhido. 
+> A Tela inspire-se, é uma tela com o propósito das pessoas que visitam o site se inspirar e doar para um local escolhido. 
 >![image](https://user-images.githubusercontent.com/102244252/193482083-5dca7c28-25f0-4ba0-81be-cef007450781.png)
 >Fonte: Criada pelos autores.
 
@@ -31,11 +31,11 @@ O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PM
 >Fonte: Criada pelos autores.
 
 > Tela Pontos de Apoio
-> Tela apresenta os pontos de apoio cadastrados na plataforma. Funciona como uma página de consulta para os locais afetados, assim como a quantidade de donativos disponíveis. 
-> ![image](https://user-images.githubusercontent.com/102244252/193482285-5fb5ec02-868e-4f65-830a-9a30ed8e3344.png)
-> Fonte: Criada pelos autores.
+>Tela apresenta os pontos de apoio cadastrados na plataforma. Funciona como uma página de consulta para os locais afetados, assim como a quantidade de donativos disponíveis. 
+>![image](https://user-images.githubusercontent.com/102244252/193482285-5fb5ec02-868e-4f65-830a-9a30ed8e3344.png)
+>Fonte: Criada pelos autores.
 
 > Tela de Contato
-> Tela de contatos apresenta as informações necessárias para entrar em contato diretamente com a plataforma, caso o doador tiver alguma dúvida. 
-> ![image](https://user-images.githubusercontent.com/102244252/193482304-d3a8a76e-05a5-4df2-a8d5-487847f40f28.png)
-> Fonte: Criada pelos autores.
+>Tela de contatos apresenta as informações necessárias para entrar em contato diretamente com a plataforma, caso o doador tiver alguma dúvida. 
+>![image](https://user-images.githubusercontent.com/102244252/193482304-d3a8a76e-05a5-4df2-a8d5-487847f40f28.png)
+>Fonte: Criada pelos autores.
