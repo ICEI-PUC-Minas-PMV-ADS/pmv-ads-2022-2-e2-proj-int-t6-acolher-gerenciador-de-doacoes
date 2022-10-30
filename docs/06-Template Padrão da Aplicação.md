@@ -2,14 +2,13 @@
 
 ![image](https://user-images.githubusercontent.com/102244252/193481968-e550a1ac-8d7c-4a74-a505-5fb912b42ca6.png)
 
-O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PMVADS/ta-na-mao-grupo6.github.io e é composto pelos seguintes layouts:   
+O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PMVADS/ta-na-mao-grupo6.github.io e é composto pelos seguintes layouts:
 - Tela Home Page
 - Tela Inspire-se
 - Tela Faça Parte
 - Tela Quem Somos
 - Pontos de Apoio
 - Tela Contato
--  github.com/T4acolher
 
 > Tela Home Page
 > 
@@ -68,6 +67,14 @@ O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PM
 >Na tela de login, o doador realizará a sua entrada na plataforma a fim de possibilitar a visualização dos pontos afetados por tragédias, assim como o acesso aos pontos de apoio cadastrados na plataforma. 
 >
 >![1(3)](https://user-images.githubusercontent.com/102244252/198895661-a65494a5-7ea0-469d-b8f4-9a2f2da39f42.png)
+>
+>Fonte: Criada pelos autores.
+
+>Tela de Termos de uso  
+>
+>A página de termos de uso mostra a política vigente no site no que diz respeito a privacidade, direito e deveres dos usuários. 
+>
+>![qdw](https://user-images.githubusercontent.com/102244252/198897999-da2b46ab-c6a7-46b1-88e9-e39537c78c8a.png)
 >
 >Fonte: Criada pelos autores.
 
