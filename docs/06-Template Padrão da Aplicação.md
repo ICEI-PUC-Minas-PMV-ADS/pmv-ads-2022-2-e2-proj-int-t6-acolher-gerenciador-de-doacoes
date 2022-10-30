@@ -14,6 +14,7 @@ O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PM
 > 
 > A Tela Home Page abrange os locais afetados por tragédias que necessitam de doações. Também é possível acessar as páginas do site através dos links.  
 >![image](https://user-images.githubusercontent.com/102244252/193482048-a9e46293-423f-48bc-ad0c-30f48c23f36a.png)
+>
 >Fonte: Criada pelos autores.
 
 > Tela Inspire-se
