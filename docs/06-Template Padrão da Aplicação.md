@@ -78,3 +78,10 @@ O template criado está disponível no site http://l1nq.com/DE5BP e é composto 
 >
 >Fonte: Criada pelos autores.
 
+>Tela Dashboard 
+>
+>A plataforma possui uma página dedicada aos registros das doações por estado. Nela é possível visualizar o tipo de itens arrecados e as quantidades disponíveis no momento do acesso.
+> 
+>![neiubv](https://user-images.githubusercontent.com/102244252/198898831-8a179994-885c-4808-8bf2-b296764df7ed.png)
+>
+>Fonte: Criada pelos autores.
