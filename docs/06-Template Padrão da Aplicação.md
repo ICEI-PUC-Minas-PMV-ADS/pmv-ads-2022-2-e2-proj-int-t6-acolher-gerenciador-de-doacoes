@@ -6,7 +6,7 @@
 >
 >Fonte: Criada pelos autores.
 
-O template criado está disponível no site github.com/T4acolher e é composto pelos seguintes layouts:  
+O template criado está disponível no site http://l1nq.com/DE5BP e é composto pelos seguintes layouts:  
 
 - 1. Tela Home Page 
 - 2. Tela de Login 
