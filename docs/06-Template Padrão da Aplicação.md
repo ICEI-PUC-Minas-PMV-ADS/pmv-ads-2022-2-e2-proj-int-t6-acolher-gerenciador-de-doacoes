@@ -53,3 +53,20 @@ O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PM
 >![image](https://user-images.githubusercontent.com/102244252/193482304-d3a8a76e-05a5-4df2-a8d5-487847f40f28.png)
 >
 >Fonte: Criada pelos autores.
+
+> Tela de Cadastro de Pontos de Apoio 
+>
+> Neste espaço, a instituição do ponto de apoio fará o seu cadastro a fim de disponibilizar um local para a coleta de doações. 
+>
+> ![2(3)](https://user-images.githubusercontent.com/102244252/198895495-ce72bf2b-a3f1-47ce-bba3-c79ad4e5b0b4.png)
+>
+>Fonte: Criada pelos autores.
+
+>Tela de Login 
+>
+>Na tela de login, o doador realizará a sua entrada na plataforma a fim de possibilitar a visualização dos pontos afetados por tragédias, assim como o acesso aos pontos de apoio cadastrados na plataforma. 
+>
+>![1(3)](https://user-images.githubusercontent.com/102244252/198895661-a65494a5-7ea0-469d-b8f4-9a2f2da39f42.png)
+>
+>Fonte: Criada pelos autores.
+
