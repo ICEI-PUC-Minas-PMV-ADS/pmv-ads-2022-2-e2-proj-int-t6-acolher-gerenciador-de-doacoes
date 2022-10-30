@@ -44,8 +44,7 @@ Figura 8.3
 > Tela Quem Somos
 > 
 >Nesta tela, tem como intuito informar sobre quem somos e uma breve apresentação da plataforma.  
-
- Figura 8.4 
+>Figura 8.4 
 >
 >![image](https://user-images.githubusercontent.com/102244252/193482276-48353b4d-5f44-4eb6-8a8a-42fac2640010.png)
 >
@@ -64,9 +63,7 @@ Figura 8.3
 > Tela Faça Parte 
 > 
 >A tela Faça Parte, tem como função cadastrar novos doadores. Possui campos para informar dados pessoais e escolher os locais para realizar e destinar a doação. 
-
-Figura 8.6 
-
+>Figura 8.6 
 >![image](https://user-images.githubusercontent.com/102244252/193482242-413480da-5520-4a14-a317-99fd7edb9c84.png)
 >
 >Fonte: Criada pelos autores.
@@ -75,8 +72,7 @@ Figura 8.6
 > Tela de Cadastro de Doação 
 >
 > Neste espaço, o usuário poderá informar dados sobre a doação. Informações como o local desejado, tipo e quantidade podem ser informados através dos campos disponíveis na página. 
-
- Figura 8.7 
+> Figura 8.7 
 >
 > ![2(3)](https://user-images.githubusercontent.com/102244252/198895495-ce72bf2b-a3f1-47ce-bba3-c79ad4e5b0b4.png)
 >
@@ -85,10 +81,8 @@ Figura 8.6
 
 
 > Tela Pontos de Apoio
->Tela apresenta os pontos de apoio cadastrados na plataforma. Funciona como uma página de consulta para os locais afetados, assim como a quantidade de donativos disponíveis. 
-
- Figura 8.8 
-
+>Tela apresenta os pontos de apoio cadastrados na plataforma. Funciona como uma página de consulta para os locais afetados, assim como a quantidade de donativos disponíveis.
+> Figura 8.8 
 >![image](https://user-images.githubusercontent.com/102244252/193482285-5fb5ec02-868e-4f65-830a-9a30ed8e3344.png)
 >
 >Fonte: Criada pelos autores.
@@ -97,9 +91,7 @@ Figura 8.6
 >Tela Dashboard 
 >
 >A plataforma possui uma página dedicada aos registros das doações por estado. Nela é possível visualizar o tipo de itens arrecados e as quantidades disponíveis no momento do acesso.
-
- Figura 8.9 
-> 
+>Figura 8.9 
 >![neiubv](https://user-images.githubusercontent.com/102244252/198898831-8a179994-885c-4808-8bf2-b296764df7ed.png)
 >
 >Fonte: Criada pelos autores.
@@ -107,9 +99,7 @@ Figura 8.6
 
 > Tela de Contatos
 >Tela de contatos apresenta as informações necessárias para entrar em contato diretamente com a plataforma, caso o doador tiver alguma dúvida. 
-
- Figura 8.10 
-
+>Figura 8.10 
 >![image](https://user-images.githubusercontent.com/102244252/193482304-d3a8a76e-05a5-4df2-a8d5-487847f40f28.png)
 >
 >Fonte: Criada pelos autores.
@@ -119,9 +109,7 @@ Figura 8.6
 >Tela de Termos de uso  
 >
 >A página de termos de uso mostra a política vigente no site no que diz respeito a privacidade, direito e deveres dos usuários. 
-
-Figura 8.11
-
+>Figura 8.11
 >![qdw](https://user-images.githubusercontent.com/102244252/198897999-da2b46ab-c6a7-46b1-88e9-e39537c78c8a.png)
 >
 >Fonte: Criada pelos autores.
