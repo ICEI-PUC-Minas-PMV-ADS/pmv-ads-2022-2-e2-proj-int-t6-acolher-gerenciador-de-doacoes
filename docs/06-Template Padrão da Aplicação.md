@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/102244252/193481968-e550a1ac-8d7c-4a74-a505-5fb912b42ca6.png)
 
-O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PMVADS/ta-na-mao-grupo6.github.io e é composto pelos seguintes layouts:
+O template criado está disponível no site http://l1nq.com/DE5BP e é composto pelos seguintes layouts:
 - Tela Home Page
 - Tela Inspire-se
 - Tela Faça Parte
