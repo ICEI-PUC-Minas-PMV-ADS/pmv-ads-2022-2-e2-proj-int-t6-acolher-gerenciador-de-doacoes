@@ -8,21 +8,21 @@
 
 O template criado está disponível no site github.com/T4acolher e é composto pelos seguintes layouts:  
 
-- Tela Home Page 
-- Tela de Login 
-- Tela Quem Somos  
-- Tela Inspire-se 
-- Tela Faça Parte  
-- Tela de Cadastro de Doação 
-- Tela Pontos de Apoio 
-- Tela Dashboard 
-- Tela de Contatos 
-- Tela de Termos de uso
+- 1.Tela Home Page 
+- 2.Tela de Login 
+- 3.Tela Quem Somos  
+- 4.Tela Inspire-se 
+- 5.Tela Faça Parte  
+- 6.Tela de Cadastro de Doação 
+- 7.Tela Pontos de Apoio 
+- 8.Tela Dashboard 
+- 9.Tela de Contatos 
+- 10.Tela de Termos de uso
 
 
 > Tela Home Page
 > 
-> A Tela Home Page abrange os locais afetados por tragédias que necessitam de doações. Também é possível acessar as páginas do site através dos links.  
+>  A Tela Home Page abrange os locais afetados por tragédias que necessitam de doações. Também é possível acessar as páginas do site através dos links. 
 > 
 >![image](https://user-images.githubusercontent.com/102244252/193482048-a9e46293-423f-48bc-ad0c-30f48c23f36a.png)
 >
