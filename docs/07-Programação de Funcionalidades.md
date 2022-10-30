@@ -24,7 +24,9 @@ Conclusão
 
 Chegamos à conclusão que a vantagem de adotar um padrão como o MVC que se dá a característica da facilidade na obtenção de múltiplas visões dos mesmos dados, desacoplagem de interface da lógica da aplicação, camadas muito bem definidas. Cada uma delas, o Model, o Controller e a View, executa o que lhe é definido e nada mais do que isso. 
 
->![image](https://user-images.githubusercontent.com/102244252/198903199-4121912b-fa5e-49dc-8ae4-82f2893699de.png)
+>![CUCE](https://user-images.githubusercontent.com/102244252/198903226-42b5a30a-d093-4ab2-9aeb-ebeaf5983b49.PNG)
+
+
 
 
 
