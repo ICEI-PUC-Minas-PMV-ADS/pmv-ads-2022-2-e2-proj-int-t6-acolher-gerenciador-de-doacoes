@@ -34,9 +34,7 @@ O template criado está disponível no site github.com/T4acolher e é composto p
 >Tela de Login 
 >
 >Na tela de login, o doador realizará a sua entrada na plataforma a fim de possibilitar a visualização dos pontos afetados por tragédias, assim como o acesso aos pontos de apoio cadastrados na plataforma. 
-
-Figura 8.3 
-
+>Figura 8.3 
 >![1(3)](https://user-images.githubusercontent.com/102244252/198895661-a65494a5-7ea0-469d-b8f4-9a2f2da39f42.png)
 >
 >Fonte: Criada pelos autores.
