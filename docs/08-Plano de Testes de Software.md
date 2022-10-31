@@ -1,31 +1,41 @@
 # Plano de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+>Foram realizados testes dinâmicos de validação de formulário, tal que tem o dever de filtrar o que uma pessoa pode ou não escrever ou coagir na hora de preencher o formulário. Por exemplo não deve ser aceito o envio de campos vazios, deve gerar um erro e uma descrição do que pode ter acontecido.
+>
+>Figura 10.2
+>
+>![123](https://user-images.githubusercontent.com/102244252/198911128-59b6eceb-4edd-4a07-b76a-983c44ec632f.png)
+>
+>Fonte: Criada pelos autores.
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
 
-Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o(s) requisito(s) associado(s) a cada um deles está(ão) correto(s) - de acordo com o que foi definido na seção "2 - Especificação do Projeto". 
+>Figura 10.3
+>
+>![12](https://user-images.githubusercontent.com/102244252/198911221-38c69e2b-ee7a-4cd8-bf49-7429c4f7e989.png)
+>
+>Fonte: Criada pelos autores
 
-Por exemplo:
- 
-| **Caso de Teste** 	| **CT-01 – Cadastrar perfil** 	|
-|:---:	|:---:	|
-|	Requisito Associado 	| RF-00X - A aplicação deve apresentar, na página principal, a funcionalidade de cadastro de usuários para que esses consigam criar e gerenciar seu perfil. |
-| Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar na aplicação. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar em "Criar conta" <br> - Preencher os campos obrigatórios (e-mail, nome, sobrenome, celular, CPF, senha, confirmação de senha) <br> - Aceitar os termos de uso <br> - Clicar em "Registrar" |
-|Critério de Êxito | - O cadastro foi realizado com sucesso. |
-|  	|  	|
-| Caso de Teste 	| CT-02 – Efetuar login	|
-|Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
-| Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
-|Critério de Êxito | - O login foi realizado com sucesso. |
+>Figura 10.4
+>
+>![1234](https://user-images.githubusercontent.com/102244252/198911365-03a4363f-a7c0-45ac-ab4c-0fcf2f392ca3.png)
+>
+>Fonte: Criada pelos autores.
 
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+>Figura 10.5
+>
+>![1223456](https://user-images.githubusercontent.com/102244252/198911561-202e3f63-f58e-4644-bcf6-a041c68100d6.png)
+>
+>Fonte: Criada pelos autores.
+
+>Além das validações de formulários, existe uma possibilidade de fazer uma doação em anonimato, sendo assim, o usuário deverá marcar o checkbox que existe no formulário.
+
+>Figura 10.6
+>
+>![123455678](https://user-images.githubusercontent.com/102244252/198911657-b477e80a-5954-4ac5-9297-e4eae16c1382.png)
+>
+>Fonte: Criada pelos autores.
+
+> Ao marcar o checkbox, os campos que não são obrigatórios deverão ser bloqueados, não permitindo qualquer tentativa de manipulá-los. As funcionalidades do software estão sendo desenvolvidas procurando atender todos os requisitos funcionais e não funcionais, e até o momento isso está sendo realizado. Não menos importante, estamos criando funções que estejam alinhados com as histórias de usuário, pois assim conseguimos atender e suprir as necessidades do nosso usuário ideal.
+
+
+
