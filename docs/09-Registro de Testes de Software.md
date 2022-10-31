@@ -19,6 +19,23 @@
 >
 >![1234](https://user-images.githubusercontent.com/102244252/198911365-03a4363f-a7c0-45ac-ab4c-0fcf2f392ca3.png)
 >
->Fonte:Criada pelos autores.
+>Fonte: Criada pelos autores.
+
+>Figura 10.5
+>
+>![1223456](https://user-images.githubusercontent.com/102244252/198911561-202e3f63-f58e-4644-bcf6-a041c68100d6.png)
+>
+>Fonte: Criada pelos autores.
+
+>Além das validações de formulários, existe uma possibilidade de fazer uma doação em anonimato, sendo assim, o usuário deverá marcar o checkbox que existe no formulário.
+
+>Figura 10.6
+>
+>![123455678](https://user-images.githubusercontent.com/102244252/198911657-b477e80a-5954-4ac5-9297-e4eae16c1382.png)
+>
+>Fonte: Criada pelos autores.
+
+> Ao marcar o checkbox, os campos que não são obrigatórios deverão ser bloqueados, não permitindo qualquer tentativa de manipulá-los. As funcionalidades do software estão sendo desenvolvidas procurando atender todos os requisitos funcionais e não funcionais, e até o momento isso está sendo realizado. Não menos importante, estamos criando funções que estejam alinhados com as histórias de usuário, pois assim conseguimos atender e suprir as necessidades do nosso usuário ideal.
+
 
 
