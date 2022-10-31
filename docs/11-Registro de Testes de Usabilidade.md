@@ -24,7 +24,7 @@
 
 >Figura 11.6
 >
->![rfbfies](https://user-images.githubusercontent.com/102244252/198913014-9f83f79c-08ef-45cb-b823-8ffdfa197741.png)
+>![hdhw](https://user-images.githubusercontent.com/102244252/198913049-9453c141-5a71-4f93-9f0d-e714383cd86a.png)
 
 
 
