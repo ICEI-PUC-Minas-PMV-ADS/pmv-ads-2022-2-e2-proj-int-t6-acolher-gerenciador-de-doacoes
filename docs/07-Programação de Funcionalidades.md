@@ -47,14 +47,14 @@ A tela principal do sistema apresenta algumas áreas afetadas por desastres no p
 > Fonte: Criada pelos autores.
 
 > Requisitos atendidos
->•	RF-01
->•	RF-02
->•	RF-03
+>	RF-01
+>	RF-02
+>	RF-03
 >
 >Artefatos da funcionalidade
->•	Index.cshtml
->•	Style.css
->•	Icone_acolher.jpeg
+>	Index.cshtml
+> Style.css
+>	Icone_acolher.jpeg
 
 >
 > Estrutura de Dados
