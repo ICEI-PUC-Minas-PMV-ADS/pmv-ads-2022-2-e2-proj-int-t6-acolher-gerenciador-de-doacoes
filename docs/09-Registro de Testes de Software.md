@@ -27,7 +27,7 @@
 >
 >Fonte: Criada pelos autores.
 
->Além das validações de formulários, existe uma possibilidade de fazer uma doação em anonimato, sendo assim, o usuário deverá marcar o checkbox que existe no formulário.
+> Além das validações de formulários, existe uma possibilidade de fazer uma doação em anonimato, sendo assim, o usuário deverá marcar o checkbox que existe no formulário.
 
 >Figura 10.6
 >
