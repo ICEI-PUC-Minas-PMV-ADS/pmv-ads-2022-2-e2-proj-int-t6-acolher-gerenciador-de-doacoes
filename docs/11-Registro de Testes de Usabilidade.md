@@ -4,6 +4,6 @@
 
 >Figura 11.1
 >
->(![image](https://user-images.githubusercontent.com/102244252/204169747-9f9bc625-6d38-4253-9fe6-4127189c4533.png)
+>![image](https://user-images.githubusercontent.com/102244252/204169747-9f9bc625-6d38-4253-9fe6-4127189c4533.png)
 
 
