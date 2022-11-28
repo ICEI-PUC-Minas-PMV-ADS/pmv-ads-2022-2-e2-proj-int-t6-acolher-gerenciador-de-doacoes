@@ -1,6 +1,6 @@
 # Registro de Testes de Software
 
->Foram realizados testes dinâmicos de validação de formulário, tal que tem o dever de filtrar o que uma pessoa pode ou não escrever ou coagir na hora de preencher o formulário. Por exemplo não deve ser aceito o envio de campos vazios, deve gerar um erro e uma descrição do que pode ter acontecido.
+> Foram realizados testes dinâmicos de validação de formulário, tal que tem o dever de filtrar o que uma pessoa pode ou não escrever ou coagir na hora de preencher o formulário. Por exemplo não deve ser aceito o envio de campos vazios, deve gerar um erro e uma descrição do que pode ter acontecido.
 >
 >Figura 10.2
 >
