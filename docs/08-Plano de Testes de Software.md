@@ -10,7 +10,8 @@ O site gerencia a concordância dos usuários por meio do termos de conduta e us
 >
 >Figura 10.2
 >
->![123](https://user-images.githubusercontent.com/102244252/198911128-59b6eceb-4edd-4a07-b76a-983c44ec632f.png)
+>![123](![image](https://user-images.githubusercontent.com/102244252/204168821-ff798ce6-8e7a-410e-84f7-dffef4c7f353.png)
+
 >
 >Fonte: Criada pelos autores.
 
