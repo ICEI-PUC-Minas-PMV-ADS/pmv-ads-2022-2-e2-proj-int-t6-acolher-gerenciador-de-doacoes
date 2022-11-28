@@ -37,9 +37,28 @@ Chegamos à conclusão que a vantagem de adotar um padrão como o MVC que se dá
 
 >Validação de campos de cadastro:
 >
->A aplicação obrigará ao usuário preencher corretamente aos campos do formulário, caso não seja preenchido o campo retornará uma mensagem de erro ao usuário informando a obrigatoriedade do seu preenchimento 
+>Nesta seção serão expostas as telas destinadas a cada uma das funcionalidades do sistema. 
+Visualização das áreas afetadas por desastres (RF-01, RF-02, RF-03)
+A tela principal do sistema apresenta algumas áreas afetadas por desastres no país. Há a página de login com usuário e senha para que o doador se identifique antes de realizar suas doações, após seu acesso é mostrado para ele os Pontos de apoio. A plataforma informa a origem, quantidade de itens arrecadados e o destino das doações. Um exemplo da tela é apresentado na Figura 10.1
+
 >
 >![12](https://user-images.githubusercontent.com/102244252/198910821-74246d21-7f86-41ae-ba8e-b6f16275c186.png)
 >
 > Fonte: Criada pelos autores.
+
+>Requisitos atendidos
+•	RF-01
+•	RF-02
+•	RF-03
+Artefatos da funcionalidade
+•	Index.cshtml
+•	Style.css
+•	Icone_acolher.jpeg
+Estrutura de Dados
+<div class="acao-secundaria">
+<article class="noticia-secundario flex f-center" id="cerrado">
+<h2>Cerrado em chamas</h2>
+</article>
+</div>
+
 
