@@ -50,15 +50,15 @@ A tela principal do sistema apresenta algumas áreas afetadas por desastres no p
 •	RF-01
 •	RF-02
 •	RF-03
-Artefatos da funcionalidade
+>Artefatos da funcionalidade
 •	Index.cshtml
 •	Style.css
 •	Icone_acolher.jpeg
-Estrutura de Dados
-<div class="acao-secundaria">
-<article class="noticia-secundario flex f-center" id="cerrado">
-<h2>Cerrado em chamas</h2>
-</article>
-</div>
+> Estrutura de Dados
+><div class="acao-secundaria">
+><article class="noticia-secundario flex f-center" id="cerrado">
+><h2>Cerrado em chamas</h2>
+></article>
+></div>
 
 
