@@ -1,6 +1,12 @@
 # Plano de Testes de Software
 
->Foram realizados testes dinâmicos de validação de formulário, tal que tem o dever de filtrar o que uma pessoa pode ou não escrever ou coagir na hora de preencher o formulário. Por exemplo não deve ser aceito o envio de campos vazios, deve gerar um erro e uma descrição do que pode ter acontecido.
+>Instruções de acesso
+1.	Abra um navegador de Internet e informe a seguinte URL: http://acolher22-001-site1.htempurl.com/
+2.	A tela de notícias é a primeira funcionalidade exibida pelo aplicativo, o login se encontra no cabeçalho na extrema direita.
+
+> Política de privacidade e termos de conduta (RF-05 e RF-06)
+O site gerencia a concordância dos usuários por meio do termos de conduta e uso da plataforma antes do cadastro, bem como o aceite de política de privacidade do usuário. Conforme a Figura 10.2
+
 >
 >Figura 10.2
 >
