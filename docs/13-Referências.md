@@ -1,10 +1,5 @@
 # Referências
 
-Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.
-
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
 
 ALVES, Paulo. Golpes de doação de dinheiro: seis dicas para fugir de fraudes online. TechTudo,2021. Disponível em <https://www.techtudo.com.br/listas/2021/03/ golpes-de-doacao-de-dinheiro-seis-dicas-para-fugir-de-fraudes-online.ghtml> Acesso em: 26 de agosto de 2022
 
