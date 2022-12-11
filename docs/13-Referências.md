@@ -1,7 +1,7 @@
 # Referências
 
 
-ALVES, Paulo. Golpes de doação de dinheiro: seis dicas para fugir de fraudes online. TechTudo,2021. Disponível em <https://www.techtudo.com.br/listas/2021/03/ golpes-de-doacao-de-dinheiro-seis-dicas-para-fugir-de-fraudes-online.ghtml> Acesso em: 26 de agosto de 2022
+ALVES, Paulo. Golpes de doação de dinheiro: seis dicas para fugir de fraudes online. TechTudo,2021. Disponível em <https://www.techtudo.com.br/listas/2021/03/golpes-de-doacao-de-dinheiro-seis-dicas-para-fugir-de-fraudes-online.ghtml> Acesso em: 26 de agosto de 2022
 
 GUSTAMÃO, André. Brasil sobe dez posições em ranking de países com maior risco climático. CNM -  Confederação Nacional de Municípios, 2022. Disponível em: < https://www.cnm.org.br/comunicacao/noticias/brasil-sobe-dez-posicoes-em-ranking-de-paises-com-maior-risco-climatico> Acesso em: 26 de agosto de 2022
 
