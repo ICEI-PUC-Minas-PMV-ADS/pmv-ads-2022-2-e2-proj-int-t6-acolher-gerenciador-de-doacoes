@@ -75,6 +75,16 @@
 >![image](https://user-images.githubusercontent.com/102244252/204170258-e0feaa5b-aeb6-44f8-88f1-27f3ccb76849.png)
 
 
+13. RELATÓRIO DO TESTE DE USABILIDADE
+
+13.1 Metodologia 
+
+A realização dos testes se deu por meio da ferramenta Canva. Aos usuários foi determinado a tarefa de realizar algumas das funcionalidades presente no software e dar um feedback sobre a sua experiência de uso. Assim, os integrantes do grupo foram anotando dificuldades e a experiência de usuário.
+
+13.2 Resumo das entrevistas pós-teste:
+
+Os usuários que participaram dos testes por meio do protótipo criado para tal finalidade relataram uma boa paleta de cores, fontes de fácil leitura e imagens relacionadas ao tema e com potencial de sensibilizar para a doação, e conforme seus dizeres, o site é intuitivo e de fácil navegabilidade.
+Pelo fato de o protótipo ter sido em um site de design de telas estáticas, não foi possível fazer uma pesquisa efetiva para testar a funcionalidade do login.
 
 
 
