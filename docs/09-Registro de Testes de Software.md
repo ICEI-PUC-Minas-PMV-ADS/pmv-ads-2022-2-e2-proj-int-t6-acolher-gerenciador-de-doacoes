@@ -39,3 +39,22 @@
 
 
 
+12. RELATÓRIO DO TESTE DE SOFTWARE
+
+Após elaborado o plano de testes de software, sua respectiva realização e documentação de seus registros, foi possível elaborar o relatório dos resultados aferidos no teste. A metodologia para aferição dos resultados obtidos segue abaixo:
+
+12.1 Metodologia
+
+Os testes foram feitos no ambiente de hospedagem da solução usando o site SmarterASP.NET. Durante as tarefas de teste do site Acolher, foram definidas ações praticadas pelos integrantes do grupo, atividades como a navegação pelas abas do site, criação de usuários e testes de simulação de doação de itens a locais selecionados. Durante esse processo, os integrantes do grupo foram testando os requisitos funcionais e não funcionais, como descrito anteriormente em requisitos do projeto (sessão 2.3)
+
+12.2 Análise de comportamento:
+
+Os usuários testaram o comportamento do site ao realizar o login, cadastramento de um novo usuário, e o comportamento das páginas. Foram observados o atendimento dos requisitos funcionais em relação as funcionalidades escolhidas no plano de testes.
+•	Resumo dos resultados pós-teste:
+Após usuários concluírem os testes, foram observados resultados satisfatórios, porém com alguns pontos de possível melhoria. 
+•	Pontos de melhoria:									
+▫	A página inicial do site não possui um filtro aprimorado para diferentes buscas. (ex.: distinção de busca por locais de todo país ou tipos de itens mais necessitados no momento para doação)
+▫	O rodapé fixado na base da tela, de modo que quando o usuário tenha um rápido acesso a todas as páginas do site, independentemente do local de visualização da página.									
+•	Plano de correção:                           							
+▫	Os filtros de busca passarão a contar com diferentes modos de pesquisa;
+▫	Na parte inferior da tela, as opções referentes a cada página, ficarão disponíveis mesmo com a rolagem da página.
