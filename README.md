@@ -17,8 +17,7 @@ Acolher: Página Web voltada para o recolhimento de doações, atendendo a comun
 * Elder Ferreira Ramos 
 * Felipe Maurício Ribeiro Nascente
 * Raniel Adriano de Souza Araújo 
-* Vinícius César Andrade Gomes 
-* Wilson Eduardo Sousa Santos 
+* Vinícius César Andrade Gomes  
 
 ## Orientador
 
