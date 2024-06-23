@@ -1,0 +1,28 @@
+message: Please cite this software using these metadata.
+title: Acolher – Plataforma de gerenciamento de doações
+authors:
+  - family-names: de Souza Freitas
+    given-names: Anna Karolina
+  - family-names: Ferreira Machado
+    given-names: Arthur Hudson
+  - family-names: Ferreira Ramos
+    given-names: Elder
+  - family-names: Ribeiro Nascente
+    given-names: Felipe Maurício
+  - family-names: de Souza Araújo
+    given-names: Raniel Adriano
+  - family-names: Andrade Gomes
+    given-names: Vinícius César  
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Jeunon de Alencar
+    given-names: Bernardo
+keywords:
+  - Gestão
+  - Doação
+  - Donativos 
+  - ONG’s
+
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t6-acolher-gerenciador-de-doacoes
+version: 1.0.0
+date-released: 2022-12-11
